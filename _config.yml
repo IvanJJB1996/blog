@@ -13,12 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: IvanJJB1996
+title: Inicio
+author: IvanJJB1996
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Mucho texto.
-#twitter_username: username
-#github_username: username
 minimal_mistakes_skin: dark
 search: true
 
@@ -65,6 +64,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/"
+    - label: "Hack The Box"
+      icon: "far fa-cube"
+      url: "https://www.hackthebox.com/"
 
 footer:
   links:
@@ -74,6 +76,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/"
+    - label: "Hack The Box"
+      icon: "far fa-cube"
+      url: "https://www.hackthebox.com/"
 
 defaults:
   # _posts
