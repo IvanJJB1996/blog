@@ -9,11 +9,9 @@ tags:
   - standard
 ---
 
-#En esta página {#enestapagina.text-muted}
-- [Título 1 del indice](#1)
-- [Título 2 del indice](#2)
-- [Título 3 del indice](#3)
-- [Título 4 del indice](#4)
+# Índice
+
+- [Introducción](#introduccion)
 
 All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
 
@@ -27,7 +25,7 @@ This post has a manual excerpt `<!--more-->` set after the second paragraph. The
 excerpt_separator: "<!--more-->"
 ```
 
-##Título 1 del indice {#1}
+# Introducción {#introduccion}
 
 If you could keep awake (but of course you can't) you would see your own mother doing this, and you would find it very interesting to watch her. It is quite like tidying up drawers. You would see her on her knees, I expect, lingering humorously over some of your contents, wondering where on earth you had picked this thing up, making discoveries sweet and not so sweet, pressing this to her cheek as if it were as nice as a kitten, and hurriedly stowing that out of sight. When you wake in the morning, the naughtiness and evil passions with which you went to bed have been folded up small and placed at the bottom of your mind and on the top, beautifully aired, are spread out your prettier thoughts, ready for you to put on.
 
@@ -39,5 +37,4 @@ Of all delectable islands the Neverland is the snuggest and most compact, not la
 
 Occasionally in her travels through her children's minds Mrs. Darling found things she could not understand, and of these quite the most perplexing was the word Peter. She knew of no Peter, and yet he was here and there in John and Michael's minds, while Wendy's began to be scrawled all over with him. The name stood out in bolder letters than any of the other words, and as Mrs. Darling gazed she felt that it had an oddly cocky appearance.
 
-[Volver al índice](#enestapagina){.btn.btn-link.btn-sm}    
 
