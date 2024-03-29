@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Inicio
-name: IvanJJB1996
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Mucho texto.
@@ -56,6 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
+  name: IvanJJB1996
   avatar : "/assets/images/bio-photo.jpg"
   links:
     - label: "LinkedIn"
