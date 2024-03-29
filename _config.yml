@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Inicio
-author: IvanJJB1996
+name: IvanJJB1996
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Mucho texto.
@@ -64,9 +64,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/"
-    - label: "Hack The Box"
-      icon: "far fa-cube"
-      url: "https://www.hackthebox.com/"
 
 footer:
   links:
@@ -76,9 +73,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/"
-    - label: "Hack The Box"
-      icon: "far fa-cube"
-      url: "https://www.hackthebox.com/"
 
 defaults:
   # _posts
