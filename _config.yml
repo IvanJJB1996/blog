@@ -60,19 +60,19 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   links:
     - label: "LinkedIn"
-      icon: "fab fa fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://linkedin.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/"
 
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://linkedin.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/"
 
 defaults:
